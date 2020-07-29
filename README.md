@@ -1,3 +1,4 @@
+# Intel Edge AI for IoT Developers Nanodegree
 # Deploy a People Counter App at the Edge
 
 | Details            |              |
